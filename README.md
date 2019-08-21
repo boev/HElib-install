@@ -1,4 +1,9 @@
 # HElib-install
+HElib HAS BEEN REWORKED AND USES CMAKE. IT CAN AND SHOULD BE INSTALLED AS SHARED LIBRARY. IT ALSO NO LONGER REQUIRES ARMADILLO FOR FFT.
+
+PLEASE USE THE OFFICIAL INSTALLATION GUIDE FOR HELIB.
+
+Deprecated:
 Compilation and installation example for HElib aimed at helping new users.  
 
 Use:  
